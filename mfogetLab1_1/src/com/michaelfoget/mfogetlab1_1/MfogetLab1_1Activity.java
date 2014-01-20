@@ -4,6 +4,13 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/**
+ * MfogetLab1_1Activity Class is a Hello World application using a repository
+ * to manage version control. 
+ * 
+ * @author Michael Foget
+ *
+ */
 public class MfogetLab1_1Activity extends Activity {
 
     @Override
